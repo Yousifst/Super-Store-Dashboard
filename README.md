@@ -52,6 +52,8 @@ Power BI Desktop
 Data cleaning and transformation in Power Query
 DAX (Data Analysis Expressions) for calculated measures
 # Dashboard Preview
+<img width="850" height="549" alt="super store dashbord done 2" src="https://github.com/user-attachments/assets/6096dedb-cc53-467f-b71c-eed9e10b44cf" />
+
 A preview images of the final dashboard is included in the assets directory.
 # How to Use
 Clone the repository:
