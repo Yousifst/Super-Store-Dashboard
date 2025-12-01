@@ -53,7 +53,31 @@ DAX (Data Analysis Expressions) for calculated measures
 <img width="847" height="551" alt="Super Store Dashbord1" src="https://github.com/user-attachments/assets/7817baf9-a722-4786-8ef6-672f293c54e8" />
 
 <img width="848" height="548" alt="Super Store Dashbord2" src="https://github.com/user-attachments/assets/5356b0d6-4c46-4cee-b2df-af1bd08a38cf" />
-
+# Insights Overall Performance
+Sales show a slight upward trend year-over-year.
+Orders remain stable with minimal fluctuation.
+Profit shows a minor decline, suggesting increased costs or discount pressure.
+Category Insights
+Technology continues to be the strongest-performing category.
+Office Supplies performs well and maintains consistent demand.
+Furniture shows weaker performance compared to other categories.
+Segment Insights
+The Consumer segment remains the primary driver of revenue.
+Corporate and Home Office segments contribute steadily and support balanced growth.
+Manufacturer Performance
+Some manufacturers show clear growth momentum and rising customer preference.
+Others exhibit noticeable decline, indicating changing market demand or increased competition.
+Regional Insights
+Certain regions perform strongly and contribute meaningfully to overall sales.
+Other regions underperform and require strategic focus and targeted improvement.
+Sub-category Trends
+Tech-related sub-categories show strong demand, especially toward the end of the year.
+Some furniture-related sub-categories consistently trend lower and may require optimization.
+Strategic Recommendations
+Strengthen pricing and discount strategies to protect profit margins.
+Focus on high-performing categories and segments for accelerated growth.
+Implement targeted initiatives in weaker regions to improve performance.
+Take advantage of seasonal demand spikes for promotional campaigns.
 # How to Use
 Clone the repository:
 git clone [https://github.com/yourusername/super-store-dashboard.git](https://github.com/Yousifst/Super-Store-Dashboard)
