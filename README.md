@@ -50,9 +50,9 @@ Power BI Desktop
 Data cleaning and transformation in Power Query
 DAX (Data Analysis Expressions) for calculated measures
 # Dashboard Preview
-<img width="850" height="549" alt="super store dashbord done 2" src="https://github.com/user-attachments/assets/6096dedb-cc53-467f-b71c-eed9e10b44cf" />
+<img width="847" height="551" alt="Super Store Dashbord1" src="https://github.com/user-attachments/assets/7817baf9-a722-4786-8ef6-672f293c54e8" />
 
-<img width="853" height="559" alt="super store dashbord done 3" src="https://github.com/user-attachments/assets/42cc59f6-2ed2-4d61-83fe-e6be0e67196c" />
+<img width="848" height="548" alt="Super Store Dashbord2" src="https://github.com/user-attachments/assets/5356b0d6-4c46-4cee-b2df-af1bd08a38cf" />
 
 # How to Use
 Clone the repository:
