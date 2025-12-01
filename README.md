@@ -1,6 +1,5 @@
 # Super-Store-Dashboard
 This dashboard offers a comprehensive snapshot of the store’s performance across categories, customer segments, manufacturers, and regions for identifying growth areas and strategic opportunities.
-
 # Overview
 The Super Store Dashboard is designed to help users quickly analyze key business metrics such as:
 Total Orders.
@@ -44,29 +43,21 @@ Central
 East
 South
 West
-
 # Files Included
 Super Store Dashboard.pbix – The main Power BI dashboard file
 /assets folder – Screenshots and visuals used for preview
 README.md – Documentation for understanding and using the dashboard
-
-
 # Tools & Technologies Used
 Power BI Desktop
 Data cleaning and transformation in Power Query
 DAX (Data Analysis Expressions) for calculated measures
-
 # Dashboard Preview
 A preview images of the final dashboard is included in the assets directory.
-
-
 # How to Use
 Clone the repository:
 git clone [https://github.com/yourusername/super-store-dashboard.git](https://github.com/Yousifst/Super-Store-Dashboard)
 Open the .pbix file in Power BI Desktop.
 Explore, modify, or publish the dashboard as needed.
-
-
 # Contact
 For any inquiries or support, feel free to reach out: Email:Yousif.m.yousifoos@gmail.com
 
