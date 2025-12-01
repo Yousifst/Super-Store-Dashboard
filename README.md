@@ -53,6 +53,8 @@ DAX (Data Analysis Expressions) for calculated measures
 <img width="847" height="551" alt="Super Store Dashbord1" src="https://github.com/user-attachments/assets/7817baf9-a722-4786-8ef6-672f293c54e8" />
 
 <img width="848" height="548" alt="Super Store Dashbord2" src="https://github.com/user-attachments/assets/5356b0d6-4c46-4cee-b2df-af1bd08a38cf" />
+
+
 # Insights Overall Performance
 Sales show a slight upward trend year-over-year.
 Orders remain stable with minimal fluctuation.
