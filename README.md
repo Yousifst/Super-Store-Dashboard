@@ -59,7 +59,7 @@ git clone [https://github.com/yourusername/super-store-dashboard.git](https://gi
 Open the .pbix file in Power BI Desktop.
 Explore, modify, or publish the dashboard as needed.
 # Contact
-For any inquiries or support, feel free to reach out: Email:Yousif.m.yousifoos@gmail.com
+For any inquiries or support, feel free to reach out: Email:yousif.m.yousifoos@gmail.com
 
 ✨ If you like this dashboard, don't forget to star the repository! ⭐
 
