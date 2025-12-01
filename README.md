@@ -62,7 +62,7 @@ A preview images of the final dashboard is included in the assets directory.
 
 # How to Use
 Clone the repository:
-git clone https://github.com/yourusername/super-store-dashboard.git
+git clone [https://github.com/yourusername/super-store-dashboard.git](https://github.com/Yousifst/Super-Store-Dashboard)
 Open the .pbix file in Power BI Desktop.
 Explore, modify, or publish the dashboard as needed.
 
