@@ -10,9 +10,7 @@ Sales by Category & Sub-Category.
 Sales by Segment.
 Sales by Manufacturer.
 Regional Performance.
-
 The dashboard enables fast, decision-driven insights for retail analytics and business intelligence.
-
 # Dashboard Features
 1. KPI Cards
 Orders, Sales, Profit with YoY comparison
@@ -53,8 +51,8 @@ Data cleaning and transformation in Power Query
 DAX (Data Analysis Expressions) for calculated measures
 # Dashboard Preview
 <img width="850" height="549" alt="super store dashbord done 2" src="https://github.com/user-attachments/assets/6096dedb-cc53-467f-b71c-eed9e10b44cf" />
+<img width="853" height="559" alt="super store dashbord done 3" src="https://github.com/user-attachments/assets/42cc59f6-2ed2-4d61-83fe-e6be0e67196c" />
 
-A preview images of the final dashboard is included in the assets directory.
 # How to Use
 Clone the repository:
 git clone [https://github.com/yourusername/super-store-dashboard.git](https://github.com/Yousifst/Super-Store-Dashboard)
