@@ -1,5 +1,5 @@
 # Super-Store-Dashboard
-This dashboard offers a comprehensive snapshot of the store’s performance across categories, customer segments, manufacturers, and regions—ideal for identifying growth areas and strategic opportunities.
+This dashboard offers a comprehensive snapshot of the store’s performance across categories, customer segments, manufacturers, and regions for identifying growth areas and strategic opportunities.
 
 # Overview
 The Super Store Dashboard is designed to help users quickly analyze key business metrics such as:
